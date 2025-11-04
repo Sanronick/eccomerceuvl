@@ -1,0 +1,104 @@
+[
+	{
+		"fyh": "27/10/2025, 11:17:09",
+		"pedido": [
+			{
+				"nombre": "Mesa",
+				"precio": 234,
+				"stock": 100,
+				"marca": "Pinolandia",
+				"categoria": "Mueble",
+				"detalles": "Laqueada",
+				"foto": "https://1.bp.blogspot.com/pw/ACtC-3eHEQFm6XdrNQqkLtgofuAL9VB7VZSijc5hIE2i3jUihoPUkyvMaixgjhZaxbSuapnv-m1HFjCWeffIdsp92XFadmot_9ZMK2xelbeTZELK_jS92PvEcDijQbAp8VLMfuGyAz-_aeAZM5xNYQH9GdTM=s692-no?authuser=0",
+				"envio": true,
+				"id": "2",
+				"cantidad": 1
+			},
+			{
+				"nombre": "Mouse",
+				"precio": 678,
+				"stock": 22,
+				"marca": "Genius",
+				"categoria": "PC",
+				"detalles": "Color negro",
+				"foto": "https://i5.walmartimages.com/seo/Wired-Mouse-USB-Wired-Computer-Mouse-Mice-1600DPI-3-Adjustable-Levels-4-Button-Ergonomic-Mice-Home-and-Office-Mouse-for-Laptop-PC-Desktop-Notebook_4020cf95-c28d-4fef-9bfa-205a70203442.9b93a603eca5d01ee0dbd14875a59d01.jpeg",
+				"envio": false,
+				"id": "3",
+				"cantidad": 2
+			}
+		],
+		"id": "1"
+	},
+	{
+		"fyh": "27/10/2025, 11:18:02",
+		"pedido": [
+			{
+				"nombre": "DDR",
+				"precio": 34567,
+				"stock": 88,
+				"marca": "Kingston",
+				"categoria": "Memoria",
+				"detalles": "32GB",
+				"foto": "https://mexx-img-2019.s3.amazonaws.com/Memoria-Ram-DDR4-32Gb-3200-Mhz-Crucial_48393_2.jpeg",
+				"envio": true,
+				"id": "4",
+				"cantidad": 2
+			},
+			{
+				"nombre": "Teclado",
+				"precio": 345,
+				"stock": 77,
+				"marca": "Genius",
+				"categoria": "PC",
+				"detalles": "Color negro",
+				"foto": "https://http2.mlstatic.com/D_NQ_NP_823492-MLA80531943441_112024-O.webp",
+				"envio": true,
+				"id": "5",
+				"cantidad": 1
+			},
+			{
+				"nombre": "Monitor",
+				"precio": 3456,
+				"stock": 22,
+				"marca": "Acer",
+				"categoria": "PC",
+				"detalles": "32 pulgadas",
+				"foto": "https://http2.mlstatic.com/D_NQ_NP_824165-CBT90405283958_082025-O.webp",
+				"envio": true,
+				"id": "6",
+				"cantidad": 1
+			}
+		],
+		"id": "2"
+	},
+	{
+		"fyh": "30/10/2025, 11:23:27",
+		"pedido": [
+			{
+				"_id": "68ff8dd76a6ba9d70ec557b8",
+				"nombre": "Mouse",
+				"precio": 678,
+				"stock": 22,
+				"marca": "Genius",
+				"categoria": "PC",
+				"detalles": "Color negro",
+				"foto": "https://i5.walmartimages.com/seo/Wired-Mouse-USB-Wired-Computer-Mouse-Mice-1600DPI-3-Adjustable-Levels-4-Button-Ergonomic-Mice-Home-and-Office-Mouse-for-Laptop-PC-Desktop-Notebook_4020cf95-c28d-4fef-9bfa-205a70203442.9b93a603eca5d01ee0dbd14875a59d01.jpeg",
+				"envio": false,
+				"cantidad": 3
+			},
+			{
+				"_id": "68ff8e456a6ba9d70ec557bb",
+				"nombre": "Monitor",
+				"precio": 3456,
+				"stock": 22,
+				"marca": "Acer",
+				"categoria": "PC",
+				"detalles": "32 pulgadas",
+				"foto": "https://http2.mlstatic.com/D_NQ_NP_824165-CBT90405283958_082025-O.webp",
+				"envio": true,
+				"cantidad": 2
+			}
+		],
+		"id": "3"
+	}
+]
